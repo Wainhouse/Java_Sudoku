@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="JavaSudoku" target="17" />
+      <module name="JavaSudoku" target="16" />
     </bytecodeTargetLevel>
   </component>
 </project>
